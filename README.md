@@ -1,3 +1,3 @@
-# Media and Advertising
+# Media and Advertising Analytics Applications with HDP and HDF
 
-This repository is a placeholder for various media and advertising demo applications uusing Hortonworks Data Platform and Hortonworks Data Flowo. 
+This repository is a collection of media and advertising analytics demo applications uusing HDP(Hortonworks Data Platform) and HDF(Hortonworks Data Flow). 
