@@ -1,3 +1,3 @@
 # Media and Advertising
 
-This repository is meant to capture various implementations of analytics in mediand advertising business. This is also the foundation for a future book that I pplan to publish by the end of 2017. 
+This repository is a placeholder for various media and advertising demo applications uusing Hortonworks Data Platform and Hortonworks Data Flowo. 
